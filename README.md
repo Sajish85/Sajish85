@@ -5,8 +5,9 @@ Data engineer, with an SRE and database past — years of keeping big database s
 These days I do the same for GPU systems, in the open: chaos engineering and monitoring. Break it in a test cluster, check the alerts fire, fix what's missing.
 
 **Publications**
-Six preprints, all open access (CC BY 4.0) — full list with abstracts: [sajish85.github.io/publications](https://sajish85.github.io/publications/) · ORCID: [0009-0009-7561-9290](https://orcid.org/0009-0009-7561-9290)
+Seven preprints, all open access (CC BY 4.0) — full list with abstracts: [sajish85.github.io/publications](https://sajish85.github.io/publications/) · ORCID: [0009-0009-7561-9290](https://orcid.org/0009-0009-7561-9290)
 - [Fault Injection and Verification for Lakehouse Table Maintenance: Crash-Testing Apache Iceberg Compaction, Snapshot Expiry and Orphan Removal](https://doi.org/10.5281/zenodo.24412833) · [code](https://github.com/Sajish85/iceberg-maintenance-fault-injection)
+- [The Disclosure Effect in LLM Root Cause Analysis: A Truthful Notice About One Injected Fault Suppresses Diagnosis of a Hidden Second Fault](https://doi.org/10.5281/zenodo.24414407) · [code](https://github.com/Sajish85/disclosure-effect-llm-root-cause-analysis)
 - [Machine Class Is the Message: Confounding and Request-Shape Effects in GPU Cluster Task Failures](https://doi.org/10.5281/zenodo.24301880) · [code](https://github.com/Sajish85/machine-class-is-the-message)
 - [One User Dominates: An Audit and User-Grouped Re-check of Task-Failure Prediction on the Alibaba PAI GPU Trace (cluster-trace-gpu-v2020)](https://doi.org/10.5281/zenodo.24326622) · [code](https://github.com/Sajish85/pai2020-failure-prediction-audit)
 - [Client-Observed Write Unavailability After a Primary Process Kill: Five Replicated Database Systems at Shipped Settings on a Single Host](https://doi.org/10.5281/zenodo.24359724) · [code](https://github.com/Sajish85/client-observed-write-unavailability)
