@@ -19,8 +19,4 @@ Seven preprints, all open access (CC BY 4.0) — full list with abstracts: [saji
 - Reviewing PRs there — [one example](https://github.com/krkn-chaos/krkn/pull/1674#pullrequestreview-5915352772)
 - Filed [alert rules for GPU monitoring](https://github.com/NVIDIA/dcgm-exporter/issues/766)
 
-**Fine print**
-- Everything is tested on small local clusters with fake GPU data. No real GPUs were harmed — none were available.
-- I use AI tools to help draft and explore. Everything I submit, I've read, tested, and can explain.
-
 Off duty: three boys and one Belgian Malinois, generating chaos of their own — untested, unmonitored. Find me in #krkn on Kubernetes Slack.
